@@ -37,12 +37,57 @@ Final grade will be determined from four types of required exercises:
 *   One grade will be based on the writing of a short story (40%), comprised between 5 and 6 pages. Students are strongly encouraged to submit a 1-page outline before they start writing. The short story will be submitted two weeks before the end of classes.
 *   One grade will be based on class participation (10%): the evaluation will be based on 1° attendance, 2° the demonstration that the students have done the weekly readings, 3° the quality (and not only the quantity) of their oral output.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Oral presentation | 30 |
-| Weekly short-answer papers | 20 |
-| Short story | 40 |
-| In-class participation | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly short-answer papers
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short story
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Reminder
 --------
@@ -56,22 +101,207 @@ Using laptops, tablets, and cell phones is limited to searches related to the cl
 Schedule
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Séance introductive I. Qu’est ce que la littérature? | &nbsp; |
-| 2 | Séance introductive II. Une littérature qui tourne court. | Due: oral presentation topic |
-| {{< td-colspan 3 >}}**Cycle 1. Générations: Annie Ernaux**{{< /td-colspan >}} |||
-| 3 | Séance III. Transmettre : l'après 1989 | &nbsp; |
-| 4 | Séance IV. Une société malade | &nbsp; |
-| 5 | Séance V. La mémoire et son devoir | &nbsp; |
-| {{< td-colspan 3 >}}**Cycle 2. Identitiés: Nina Bouraoui.**{{< /td-colspan >}} |||
-| 6 | Séance VI. La famille réinventée | &nbsp; |
-| 7 | Séance VII. La France post-coloniale | Due: Novel outline |
-| 8 | Séance VIII. La France post-sexuelle | &nbsp; |
-| {{< td-colspan 3 >}}**Cycle 3. Crises: Marc Vilrouge**{{< /td-colspan >}} |||
-| 9 | Séance IX. Le monde du travail | Due: Novel |
-| 10 | Séance X. La crise économique | &nbsp; |
-| 11 | Séance XI. L'individualisme | &nbsp; |
-| 12 | Séance XII. Création | Due: Short story |
-| 13 | Séance XIII. Empires | &nbsp; |
-| 14 | Séance XIV. Bilan et lecture des nouvelles | Due: Final presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Séance introductive I. Qu’est ce que la littérature?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Séance introductive II. Une littérature qui tourne court.
+{{< tdclose >}}
+{{< tdopen >}}
+Due: oral presentation topic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cycle 1. Générations: Annie Ernaux**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Séance III. Transmettre : l'après 1989
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Séance IV. Une société malade
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Séance V. La mémoire et son devoir
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cycle 2. Identitiés: Nina Bouraoui.**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Séance VI. La famille réinventée
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Séance VII. La France post-coloniale
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Novel outline
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Séance VIII. La France post-sexuelle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cycle 3. Crises: Marc Vilrouge**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Séance IX. Le monde du travail
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Novel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Séance X. La crise économique
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XI. L'individualisme
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XII. Création
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Short story
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XIII. Empires
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XIV. Bilan et lecture des nouvelles
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Final presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

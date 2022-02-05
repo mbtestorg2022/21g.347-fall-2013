@@ -14,22 +14,213 @@ Textes Nécessaires
 
 \[Echenoz\] = Echenoz, Jean. _Ravel_. Editions de la Loupe, ISBN: 9782848681849.
 
-| Séance | SUJET | LECTURES |
-| --- | --- | --- |
-| 1 | Séance introductive I. Qu'est ce que la littérature? |  {{< br >}}{{< br >}} Duras, Marguerite. _Écrire_. Gallimard, 1993. ISBN: 9782070736386. {{< br >}}{{< br >}} Rancière, Jacques. _Politique de la littérature_. Editions Galilée. 2007. ISBN: 9782718607351. {{< br >}}{{< br >}}  |
-| 2 | Séance introductive II. Une littérature qui tourne court. | Benacquista, Tonino. "Transfert." In _La boîte noire et autres nouvelles_. Folio, 2001. |
-| {{< td-colspan 3 >}}**Cycle 1. Générations: Annie Ernaux**{{< /td-colspan >}} |||
-| 3 | Séance III. Transmettre : l'après 1989 | Projection: _[Ma saison préférée](http://www.imdb.com/title/tt0107471/?ref_=fn_al_tt_1)._ André Téchiné. 127 min. 1993. |
-| 4 | Séance IV. Une société malade | \[Ernaux\] Les années VIH, la question du vieillissement démographique. |
-| 5 | Séance V. La mémoire et son devoir | \[Ernaux\] Collaboration et procès des années 90. Le discours du Vel d'Hiv. Décolonisation et repentance. |
-| {{< td-colspan 3 >}}**Cycle 2. Identitiés: Nina Bouraoui**{{< /td-colspan >}} |||
-| 6 | Séance VI. La famille réinventée | Projection: _[Un air de famille](http://www.imdb.com/title/tt0271851/?ref_=fn_al_tt_2)._ Agnès Jaoui_._ Black & White, 27 min. 1963. |
-| 7 | Séance VII. La France post-coloniale | \[Bouraoui\] La question du foulard, les politiques migratoires, la jeunesse. |
-| 8 | Séance VIII. La France post-sexuelle | \[Bouraoui\] Le PaCS, le mariage, le _queer._ |
-| {{< td-colspan 3 >}}**Cycle 3. Crises: Marc Vilrouge**{{< /td-colspan >}} |||
-| 9 | Séance IX. Le monde du travail | Projection: _[L'emploi du temps](http://www.imdb.com/title/tt0279065/?ref_=fn_al_tt_1)._ Laurent Cantet. 134 min. 2001. |
-| 10 | Séance X. La crise économique | \[Vilrouge\] La question de l'euro, la crise financière. |
-| 11 | Séance XI. L'individualisme | \[Vilrouge\] La fin du syndicalisme, l'emploi précaire. |
-| 12 | Séance XII. Création | \[Echenoz\] La science et le monde de l'art : XXe-XXIe siècle. |
-| 13 | Séance XIII. Empires | \[Echenoz\] Les Etats-Unis : modèle et contre-modèle. |
-| 14 | Séance XIV. Bilan et lecture des nouvelles | Aucun
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Séance
+{{< thclose >}}
+{{< thopen >}}
+SUJET
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Séance introductive I. Qu'est ce que la littérature?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Duras, Marguerite. _Écrire_. Gallimard, 1993. ISBN: 9782070736386.
+
+Rancière, Jacques. _Politique de la littérature_. Editions Galilée. 2007. ISBN: 9782718607351.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Séance introductive II. Une littérature qui tourne court.
+{{< tdclose >}}
+{{< tdopen >}}
+Benacquista, Tonino. "Transfert." In _La boîte noire et autres nouvelles_. Folio, 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cycle 1. Générations: Annie Ernaux**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Séance III. Transmettre : l'après 1989
+{{< tdclose >}}
+{{< tdopen >}}
+Projection: _[Ma saison préférée](http://www.imdb.com/title/tt0107471/?ref_=fn_al_tt_1)._ André Téchiné. 127 min. 1993.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Séance IV. Une société malade
+{{< tdclose >}}
+{{< tdopen >}}
+\[Ernaux\] Les années VIH, la question du vieillissement démographique.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Séance V. La mémoire et son devoir
+{{< tdclose >}}
+{{< tdopen >}}
+\[Ernaux\] Collaboration et procès des années 90. Le discours du Vel d'Hiv. Décolonisation et repentance.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cycle 2. Identitiés: Nina Bouraoui**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Séance VI. La famille réinventée
+{{< tdclose >}}
+{{< tdopen >}}
+Projection: _[Un air de famille](http://www.imdb.com/title/tt0271851/?ref_=fn_al_tt_2)._ Agnès Jaoui_._ Black & White, 27 min. 1963.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Séance VII. La France post-coloniale
+{{< tdclose >}}
+{{< tdopen >}}
+\[Bouraoui\] La question du foulard, les politiques migratoires, la jeunesse.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Séance VIII. La France post-sexuelle
+{{< tdclose >}}
+{{< tdopen >}}
+\[Bouraoui\] Le PaCS, le mariage, le _queer._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cycle 3. Crises: Marc Vilrouge**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Séance IX. Le monde du travail
+{{< tdclose >}}
+{{< tdopen >}}
+Projection: _[L'emploi du temps](http://www.imdb.com/title/tt0279065/?ref_=fn_al_tt_1)._ Laurent Cantet. 134 min. 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Séance X. La crise économique
+{{< tdclose >}}
+{{< tdopen >}}
+\[Vilrouge\] La question de l'euro, la crise financière.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XI. L'individualisme
+{{< tdclose >}}
+{{< tdopen >}}
+\[Vilrouge\] La fin du syndicalisme, l'emploi précaire.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XII. Création
+{{< tdclose >}}
+{{< tdopen >}}
+\[Echenoz\] La science et le monde de l'art : XXe-XXIe siècle.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XIII. Empires
+{{< tdclose >}}
+{{< tdopen >}}
+\[Echenoz\] Les Etats-Unis : modèle et contre-modèle.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Séance XIV. Bilan et lecture des nouvelles
+{{< tdclose >}}
+{{< tdopen >}}
+Aucun
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
